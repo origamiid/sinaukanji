@@ -1,0 +1,14 @@
+node_modules/
+.env
+.DS_Store
+*.log
+data/chat/*.json
+data/news/*.json
+data/users/*.txt
+public/uploads/photos/*
+public/uploads/news/*
+!data/chat/.gitkeep
+!data/news/.gitkeep
+!data/users/.gitkeep
+!public/uploads/photos/.gitkeep
+!public/uploads/news/.gitkeep
